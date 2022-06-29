@@ -1,1 +1,1 @@
-web: java -jar be-petBook/build/libs/petBook-0.0.1-SNAPSHOT.war
+web: java -jar build/libs/petBook-0.0.1-SNAPSHOT.war
